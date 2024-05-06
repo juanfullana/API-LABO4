@@ -2,6 +2,7 @@
 Esta api fue creada para el final de Labortario 4 de la Tecnicatura Universitaria en Programación de la UTN FRBB
 
 ## Funcionalidad
+Replica información obtenida de https://api.football-data.org
 
 Cuenta con 5 endpoints.
 
